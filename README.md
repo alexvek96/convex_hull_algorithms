@@ -5,23 +5,23 @@
 1) "Computational Assignment".pdf contains the objectives of the exercise (Spring Semester 2023)
 2) files and functionalities:
    * divide_and_conquer_2D_no_live_plotting.py
-     Divide and Conquer algorithm imlementation with static plotting of the 2D convex hull.
+Divide and Conquer algorithm imlementation with static plotting of the 2D convex hull.
      
    * incremental_2D_live_plotting.py
-     Incremental (Graham's Scan) algorithm imlementation with step by step plotting of the 2D convex hull. User can freeze the plotting using a
-     'Pause' button.
+Incremental (Graham's Scan) algorithm imlementation with step by step plotting of the 2D convex hull. User can freeze the plotting using a
+'Pause' button.
      
    * incremental_2D_no_live_plotting.py
-     Incremental (Graham's Scan) algorithm imlementation with static plotting of the 2D convex hull.
-     
+Incremental (Graham's Scan) algorithm imlementation with static plotting of the 2D convex hull.
+
    * quickhull_2D_no_live_plotting.py
-     Quickhull algorithm imlementation with static plotting of the 2D convex hull.
+Quickhull algorithm imlementation with static plotting of the 2D convex hull.
      
    * quickhull_3D_interactive_plotting.py
-     Quickhull algorithm imlementation with static plotting of the 3D convex hull.
+Quickhull algorithm imlementation with static plotting of the 3D convex hull.
      
    * wrapping_2D_no_live_plotting.py
-   Gift Wrapping algorithm imlementation with static plotting of the 2D convex hull.
+Gift Wrapping algorithm imlementation with static plotting of the 2D convex hull.
 
 ## how to execute
 Run each Python file and see the results. Code comments explain anything you need to understand the code. Keep in mind that in some
